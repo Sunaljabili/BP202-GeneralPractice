@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\HomeworkDate\HomeworkDate\bin\Debug\netcoreapp3.1\HomeworkDate.exe
+C:\Users\User\Desktop\HomeworkDate\HomeworkDate\bin\Debug\netcoreapp3.1\HomeworkDate.deps.json
+C:\Users\User\Desktop\HomeworkDate\HomeworkDate\bin\Debug\netcoreapp3.1\HomeworkDate.runtimeconfig.json
+C:\Users\User\Desktop\HomeworkDate\HomeworkDate\bin\Debug\netcoreapp3.1\HomeworkDate.runtimeconfig.dev.json
+C:\Users\User\Desktop\HomeworkDate\HomeworkDate\bin\Debug\netcoreapp3.1\HomeworkDate.dll
+C:\Users\User\Desktop\HomeworkDate\HomeworkDate\bin\Debug\netcoreapp3.1\HomeworkDate.pdb
+C:\Users\User\Desktop\HomeworkDate\HomeworkDate\obj\Debug\netcoreapp3.1\HomeworkDate.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HomeworkDate\HomeworkDate\obj\Debug\netcoreapp3.1\HomeworkDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HomeworkDate\HomeworkDate\obj\Debug\netcoreapp3.1\HomeworkDate.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeworkDate\HomeworkDate\obj\Debug\netcoreapp3.1\HomeworkDate.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeworkDate\HomeworkDate\obj\Debug\netcoreapp3.1\HomeworkDate.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeworkDate\HomeworkDate\obj\Debug\netcoreapp3.1\HomeworkDate.dll
+C:\Users\User\Desktop\HomeworkDate\HomeworkDate\obj\Debug\netcoreapp3.1\HomeworkDate.pdb
+C:\Users\User\Desktop\HomeworkDate\HomeworkDate\obj\Debug\netcoreapp3.1\HomeworkDate.genruntimeconfig.cache
